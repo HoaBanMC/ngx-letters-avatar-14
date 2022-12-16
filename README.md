@@ -1,3 +1,9 @@
+
+# This fork support for Angular 14
+```
+npm i ngx-letters-avatar-14
+```
+
 # Angular letters-avatar Component Ngx-letters-avatar (Angular 2+)
 
 Component will genrate an avatar of your name's initial letters

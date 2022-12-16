@@ -3,7 +3,6 @@ import { CommonModule } from '@angular/common';
 import { LettersAvatarComponent } from './letters-avatar.component';
 
 
-
 @NgModule({
   declarations: [LettersAvatarComponent],
   imports: [

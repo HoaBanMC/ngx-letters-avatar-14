@@ -1,0 +1,1 @@
+export * from "./app/modules/letters-avatar/letters-avatar.component";
